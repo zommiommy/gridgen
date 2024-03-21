@@ -2,8 +2,7 @@
 name = "grid_gen"
 version = "0.1.0"
 edition = "2021"
-description = "A procedural macro to make it easier to write combinatorial tests and benches on 
-arguments and generics."
+description = "A procedural macro to make it easier to write combinatorial tests and benches on arguments and generics."
 repository = "https://github.com/zommiommy/gridgen/"
 license = "Apache-2.0 OR LGPL-2.1-or-later"
 readme = "README.md"
